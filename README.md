@@ -1,2 +1,2 @@
-# datasciencepath
-all code from ds path
+# Repository with notebooks containing ML researches, projects and exercises
+
